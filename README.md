@@ -1,4 +1,4 @@
-# <img src="https://skillicons.dev/icons?i=c" width="35" height="35" /> C: Lógica de Programação e Algoritmos
+# <img src="https://skillicons.dev/icons?i=c" width="35" height="35" /> Lógica de Programação e Algoritmos
 
 > Repositório dedicado ao estudo e implementação de lógica de programação fundamental, desenvolvido durante a graduação de Análise e Desenvolvimento de Sistemas.
 
