@@ -1,13 +1,12 @@
 # 🟦 C: Lógica de Programação e Estruturas Dinâmicas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
   <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge" alt="Status Badge">
 </p>
 
-> Repositório dedicado ao estudo da linguagem C, focado em algoritmos de baixa performance, manipulação direta de memória e tipos heterogêneos, desenvolvidos durante a graduação de ADS.
+<br>
 
-Este projeto reúne exercícios práticos para fixação de conceitos fundamentais da ciência da computação, explorando o que acontece "por baixo do capô" dos sistemas operacionais.
+> Repositório dedicado ao estudo da linguagem C, focado em algoritmos de baixa performance, manipulação direta de memória e tipos heterogêneos, desenvolvidos durante a graduação de ADS.
 
 <br>
 
