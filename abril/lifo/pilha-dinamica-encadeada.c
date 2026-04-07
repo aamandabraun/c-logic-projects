@@ -36,10 +36,7 @@ int pop(Pilha *p, int *valor){
     No *temp;
 
     if (p -> topo == NULL){
-        printf("Pilha vazia, pulando pop"){
+        printf("Pilha vazia, pulando pop");
             return 0;
-        }
-
-        
     } 
 }
